@@ -143,7 +143,7 @@
 
 .ace_comment {
   font-style: italic;
-  color: #7F8B99;
+  color: #51B856;
 
 }
 

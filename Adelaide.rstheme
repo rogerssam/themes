@@ -775,3 +775,6 @@
    border: none
 }
 
+.ace_heading {
+  color: #7AF2CE;
+}

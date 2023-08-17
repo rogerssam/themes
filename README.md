@@ -4,5 +4,5 @@ A custom dark theme for Rstudio
 Easily add this theme with:
 
 ```r
-rstudioapi::addTheme("https://github.com/rogerssam/themes/blob/main/Adelaide.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/rogerssam/themes/main/Adelaide.rstheme", apply = TRUE)
 ```
